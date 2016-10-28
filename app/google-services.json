@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "359786565512",
+    "firebase_url": "https://divelogtest.firebaseio.com",
+    "project_id": "divelogtest",
+    "storage_bucket": "divelogtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359786565512:android:69e6d7d35569821a",
+        "android_client_info": {
+          "package_name": "com.lbconsulting.divelogtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359786565512-okbbakin3m1igfveefu7fa02bas9qtm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lbconsulting.divelogtest",
+            "certificate_hash": "346CA4287DFB63F22E999FACD3DAA7AD35F99A13"
+          }
+        },
+        {
+          "client_id": "359786565512-k2dbur5tlocpjmf14prpidofnebra582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWcOAqvenp7g9yxn05t2Ma-LAeIjXw5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359786565512-k2dbur5tlocpjmf14prpidofnebra582.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
